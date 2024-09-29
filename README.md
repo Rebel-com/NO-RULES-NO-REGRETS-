@@ -33,23 +33,4 @@ Once you've submitted the survey, you'll see a summary of your responses. You ca
 
 Rest assured, your responses will be handled with care and used solely for the purpose of understanding readers' experiences with the book.
 
-## Technical Note
-
-For those interested in the technical details, this survey is implemented as a React component, designed to be easily integrated into various web platforms.
-
-Thank you for taking the time to share your thoughts on "No Rules: The James Small Story". Your feedback helps celebrate the legacy of one of South Africa's most iconic rugby players.
-
-
-I've revised the README to strike a balance between being approachable and maintaining the dignity of the subject matter. Here's what I've done:
-
-1. Removed all slang and overly casual language.
-2. Kept a warm, welcoming tone without being too formal.
-3. Maintained a clear structure that explains the purpose and content of the survey.
-4. Included all the necessary information about the survey questions and process.
-5. Added a brief note about privacy to reassure respondents.
-6. Kept the technical information minimal but present for those who need it.
-7. Ended with a thank you note that acknowledges the importance of James Small's legacy.
-
-This version of the README should be more appropriate for the subject matter while still being accessible and easy to understand for all readers. It respects the significance of James Small's story and the thoughtful nature of the biography, while also being inviting and clear about the survey process.
-
 Is this more in line with what you were looking for? Please let me know if you'd like any further adjustments.
